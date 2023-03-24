@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2035b958451fd3243a5afb77a9222899
+timeCreated: 1508358066
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - oeuf: {fileID: 1421187034479748, guid: db963e382e3e4664cb38d5f5dd6eb965, type: 2}
+  - ennemi: {fileID: 1550159260799516, guid: 3da690b404329df40bd6a055eb0f8aa9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
