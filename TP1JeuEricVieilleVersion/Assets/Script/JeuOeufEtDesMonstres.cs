@@ -49,7 +49,7 @@ public class JeuOeufEtDesMonstres : MonoBehaviour
         {
             dragonMort = true;
             Instantiate(clef, new Vector2(this.transform.position.x, this.transform.position.y - 8), Quaternion.identity);
-
+            //bug régler 
             BougerDragon();
 
 
